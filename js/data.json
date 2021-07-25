@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "audio": "audio/wegz/Wegz  - Khod W Hat  _ ويجز - خد وهات.mp3",
+    "src": "image/wegz/1.jpg",
+    "name": "Wegz  - Khod W Hat  _ ويجز - خد وهات",
+    "time": "in"
+  },
+  {
+    "id": 2,
+    "audio": "audio/wegz/Wegz - Asyad El Soot _ ويجز - اسياد الصوت.mp3",
+    "src": "image/wegz/2.jpg",
+    "name": "Wegz - Asyad El Soot _ ويجز - اسياد الصوت",
+    "time": "in"
+  },
+  {
+    "id": 3,
+    "audio": "audio/wegz/Wegz – Man7os  – ويجز – منحوس.mp3",
+    "src": "image/wegz/3.jpg",
+    "name": "Wegz – Man7os  – ويجز – منحوس",
+    "time": "ide"
+  },
+  {
+    "id": 4,
+    "audio": "audio/wegz/Wegz - Dorak Gai _ويجز دورك جاي.mp3",
+    "src": "image/wegz/4.jpg",
+    "name": "Wegz - Dorak Gai _ويجز دورك جاي",
+    "time": "morbi"
+  },
+
+  {
+    "id": 5,
+    "audio": "audio/wegz/Wegz - Msh Fair _ ويجز - مش فير.mp3",
+    "src": "image/wegz/5.jpg",
+    "name": "Wegz - Msh Fair _ ويجز - مش فير",
+    "time": "id"
+  },
+  {
+    "id": 6,
+    "audio": "audio/wegz/Wegz - SKERTY _ ويجز - سكرتي.mp3",
+    "src": "image/wegz/6.jpg",
+    "name": "Wegz - SKERTY _ ويجز - سكرتي",
+    "time": "ide"
+  },
+
+  {
+    "id": 7,
+    "audio": "audio/wegz/Wegz - 21 _ ويجز - واحد وعشرين.mp3",
+    "src": "image/wegz/7.jpg",
+    "name": "Wegz - 21 _ ويجز - واحد وعشرين",
+    "time": "ide"
+  },
+  {
+    "id": 8,
+    "audio": "audio/wegz/Wegz - ATM _ ويجز - اي تي ام.mp3",
+    "src": "image/wegz/8.jpg",
+    "name": "Wegz - ATM _ ويجز - اي تي ام",
+    "time": "ide"
+  },
+  {
+    "id": 9,
+    "audio": "audio/wegz/Wegz - bazeet _ ويجز - باظت.mp3",
+    "src": "image/wegz/9.jpg",
+    "name": "Wegz - bazeet _ ويجز - باظت",
+    "time": "ide"
+  },
+  {
+    "id": 10,
+    "audio": "audio/wegz/Wegz - Hustla _ ويجز - هصلا.mp3",
+    "src": "image/wegz/10.jpg",
+    "name": "Wegz - Hustla _ ويجز - هصلا",
+    "time": "ide"
+  },
+  {
+    "id": 11,
+    "audio": "audio/wegz/Wegz - Kan Nefsy _ ويجز - كان نفسي.mp3",
+    "src": "image/wegz/11.jpg",
+    "name": "Wegz - Kan Nefsy _ ويجز - كان نفسي",
+    "time": "ide"
+  },
+  {
+    "id": 12,
+    "audio": "audio/wegz/WEGZ - Hattatack Battatack _ ويجز - حتتك بتتك.mp3",
+    "src": "image/wegz/12.jpg",
+    "name": "WEGZ - Hattatack Battatack _ ويجز - حتتك بتتك",
+    "time": "ide"
+  },
+  {
+    "id": 13,
+    "audio": "audio/wegz/Wegz - KEDA KEDA  _ ويجز - كدا كدا.mp3",
+    "src": "image/wegz/13.jpg",
+    "name": "Wegz - KEDA KEDA  _ ويجز - كدا كدا",
+    "time": "ide"
+  },
+  {
+    "id": 14,
+    "audio": "audio/wegz/wegz - matwalesh _ ويجز - متواليش.mp3",
+    "src": "image/wegz/14.jpg",
+    "name": "wegz - matwalesh _ ويجز - متواليش",
+    "time": "ide"
+  },
+  {
+    "id": 15,
+    "audio": "audio/wegz/wegz - Tayeh I ويجز - تايه.mp3",
+    "src": "image/wegz/15.jpg",
+    "name": "wegz - Tayeh _ ويجز - تايه",
+    "time": "ide"
+  },
+  {
+    "id": 16,
+    "audio": "audio/wegz/Wegz - LAQTTA _ ويجز - لقطة.mp3",
+    "src": "image/wegz/16.jpg",
+    "name": "Wegz - LAQTTA _ ويجز - لقطة",
+    "time": "proin"
+  },
+  {
+    "id": 17,
+    "audio": "audio/wegz/ويجز _ علي بابا ali baba _ wegz.mp3",
+    "src": "image/wegz/17.jpg",
+    "name": "wegz _ ali baba ويجز _ علي بابا",
+    "time": "ide"
+  },
+  {
+    "id": 18,
+    "audio": "audio/wegz/Wegz - El Ghasala _ ويجز - الغسالة.mp3",
+    "src": "image/wegz/18.jpg",
+    "name": "Wegz - El Ghasala _ ويجز - الغسالة",
+    "time": "a"
+  }
+]
